@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{827026d6-bc01-4ff7-9719-e2fa0ffbbe35}"
+       Name="Asunto"
+       DisplayName="Asunto"
+       Type="Text"
+       Required="TRUE"
+       Group="DaniAppGroup">
+  </Field>
+</Elements>

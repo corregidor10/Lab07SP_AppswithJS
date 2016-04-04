@@ -43,12 +43,33 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="ListaSugerencias\Elements.xml" />
+    <Content Include="ListaSugerencias\ListaSugerenciasInstance\Elements.xml" />
+    <Content Include="ListaSugerencias\Schema.xml" />
+    <Content Include="Sugerencias\Elements.xml" />
+    <Content Include="Columnas\Sugerencia\Elements.xml" />
+    <None Include="Columnas\Asunto\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{59e02428-fbe5-441c-8365-bb9426496f79}</SharePointProjectItemId>
+    </None>
+    <None Include="ListaSugerencias\ListaSugerenciasInstance\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{3d369913-552e-4262-a527-db96760e633f}</SharePointProjectItemId>
+    </None>
+    <None Include="ListaSugerencias\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{7029aa84-c1a9-4667-81f7-555d9db57630}</SharePointProjectItemId>
+    </None>
     <None Include="packages.config" />
     <None Include="Pages\SharePointProjectItem.spdata">
       <SharePointProjectItemId>{1de4aa8a-ba97-40fd-b1b5-3ac8e9688e7b}</SharePointProjectItemId>
     </None>
+    <Content Include="Columnas\Asunto\Elements.xml" />
     <Content Include="Pages\Elements.xml" />
     <Content Include="Pages\Default.aspx" />
+    <None Include="Sugerencias\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{b17f94d3-39d8-48f6-ae82-72d187f31527}</SharePointProjectItemId>
+    </None>
+    <None Include="Columnas\Sugerencia\SharePointProjectItem.spdata">
+      <SharePointProjectItemId>{ffdc7005-508b-41cb-a181-77626ac18490}</SharePointProjectItemId>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="Scripts\jquery-1.9.1.min.map" />

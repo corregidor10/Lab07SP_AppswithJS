@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">  
+  <Field
+       ID="{3757172d-2f84-423e-a139-ef669470d465}"
+       Name="Sugerencia"
+       DisplayName="Sugerencia"
+       Type="Note"
+       Required="TRUE"
+      Group="DaniAppGroup">
+  </Field>
+</Elements>
