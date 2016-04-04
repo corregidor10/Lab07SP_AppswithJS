@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="eff131b3-89ad-4b19-8ae7-2e182b1a4f37" 
+        solutionId="eff131b3-89ad-4b19-8ae7-2e182b1a4f37" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Lab07AppsSPconJScript"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="451534e4-693a-4040-8a31-69408fe325e5" />
+  </features>
+</package>
